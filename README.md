@@ -1,6 +1,6 @@
 # KSP
 Custom Kerbal Controller on Arduino using Simpit
 
-Main is KSP_Junkbirds_R5B.ino
+The INO files are in the INO folder.
 
 The STL files are in the STL folder.
